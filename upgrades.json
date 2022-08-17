@@ -1,0 +1,1982 @@
+[
+  {
+    "title": "Sharp Shots",
+    "cost": "$100",
+    "description": "Can pop 1 extra Bloon per shot.",
+    "effect": "Gains +1 pierce, for 3 pierce by default. With Crossbow Master, gains +6 pierce instead."
+  },
+  {
+    "title": "Razor Sharp Shots",
+    "cost": "$200",
+    "description": "Can pop 2 more bloons per shot.",
+    "effect": "Gains +2 pierce, for 5 pierce by default. With Crossbow Master, gains +7 pierce instead."
+  },
+  {
+    "title": "Spike-O-Pult",
+    "cost": "$300",
+    "description": "Converts into a Spike-o-pult that hurls large spiked balls. Good range, but slower attack speed. Each ball can pop lots of Bloons",
+    "effect": "Hurls spiked balls that pop up to 22 bloons per shot, deal +1 damage to Ceramics, bounce off obstacles, and pop Frozen. Attacks slightly slower (1.15s instead of 0.95s)."
+  },
+  {
+    "title": "Juggernaut",
+    "cost": "$1800",
+    "description": "Hurls a giant spiked ball that pops lead and excels at crushing Ceramic Bloons.",
+    "effect": "Hurls juggernaut balls that pop up to 50 bloons per shot, pop all Bloons except Camo, deal 2 damage and +2 to Ceramics, have 15% more range, and gain extra projectile speed. Attacks slightly faster (1s instead of 1.15s)."
+  },
+  {
+    "title": "Ultra-Juggernaut",
+    "cost": "$13500",
+    "description": "Gigantic spiked ball splits twice into 6 Juggernaut balls for even more destructive power.",
+    "effect": "Hurls gigantic juggernaut balls that each deal 5 damage, 13 to Ceramics, have 200 pierce, travel faster, and split twice into 6 regular pre-rework juggernaut balls for even more damage. Can rehit the same bloons again if the main projectile hits any walls."
+  },
+  {
+    "title": "Quick Shots",
+    "cost": "$100",
+    "description": "Shoots 15% faster.",
+    "effect": "Attacks +17.6% faster (0.85x attack cooldown)."
+  },
+  {
+    "title": "Very Quick Shots",
+    "cost": "$190",
+    "description": "Shoots 33% faster!",
+    "effect": "Attacks +50% faster (attack cooldown from 0.85x to 0.67x (~2/3x))."
+  },
+  {
+    "title": "Triple Shot",
+    "cost": "$350",
+    "description": "Throws 3 darts at a time instead of 1.",
+    "effect": "Throws 3 darts per attack, in a 60� spread."
+  },
+  {
+    "title": "Super Monkey Fan Club",
+    "cost": "$8000",
+    "description": "Super Monkey Fan Club Ability: Converts up to 10 nearby Dart Monkeys including himself into Super Monkeys for 15 seconds.",
+    "effect": "Gains an ability that transforms itself and up to 9 of the nearest non-special Dart Monkeys into Super Monkeys, which have 40 range. Cannot affect catapult-operating Dart Monkeys nor crossbow wielders nor the Plasma Monkey Fan Club. Attacks 1.5x as fast as a basic Dart Monkey (attack cooldown from 0.67x to 0.5025x (~1/2)."
+  },
+  {
+    "title": "Plasma Monkey Fan Club",
+    "cost": "$45000",
+    "description": "Elite membership of this club grants the Dart Monkeys even more power.",
+    "effect": "Ability now transforms the club leader and up to 20 of the nearest non-special Dart Monkeys into Super Monkeys that shoot plasma blasts instead of darts. The plasma attacks twice as fast, deals 2 damage per tick and has 5 pierce."
+  },
+  {
+    "title": "Long Range Darts",
+    "cost": "$90",
+    "description": "Makes the Dart Monkey shoot further than normal.",
+    "effect": "Gains +8 range."
+  },
+  {
+    "title": "Enhanced Eyesight",
+    "cost": "$200",
+    "description": "Shoots even further and can detect Camo bloons.",
+    "effect": "Gains +8 range on top of previous upgrades, +10% increased projectile speed, and camo detection."
+  },
+  {
+    "title": "Crossbow",
+    "cost": "$575",
+    "description": "Uses a long range Crossbow that can pop 3 layers of Bloon for every hit.",
+    "effect": "Deals 3 damage per hit, gains +3 pierce, and gains +8 range again."
+  },
+  {
+    "title": "Sharp Shooter",
+    "cost": "$2000",
+    "description": "Sharp Shooter does powerful Crit shots every few shots that do a lot more damage.",
+    "effect": "Deals 6 damage per hit, attacks every 0.75s instead of 0.95s, and lands a Critical Hit after every 8-12 shots. Crits deal 50 damage per hit."
+  },
+  {
+    "title": "Crossbow Master",
+    "cost": "$25000",
+    "description": "Crossbow Master shoots really fast and devastates most Bloon types with ease.",
+    "effect": "Attacks every 0.16s instead of 0.75s, increases damage from 6 to 9, pierce from 5 to 12, range from 56 to 76, and applies Critical Hits every 4-8 shots. Can also damage any bloon type."
+  },
+  {
+    "title": "Improved Rangs",
+    "cost": "$200",
+    "description": "Can pop up to 8 Bloons per throw.",
+    "effect": "Gains +4 pierce, equivalent to 8 pierce for most upgrades."
+  },
+  {
+    "title": "Glaives",
+    "cost": "$280",
+    "description": "Throws sharper glaives instead of boomerangs.",
+    "effect": "Gains +5 pierce on top of the previous upgrade, equivalent to 13 pierce for most upgrades. Also gives +50% knockback for MOAB Press."
+  },
+  {
+    "title": "Glaive Ricochet",
+    "cost": "$1500",
+    "description": "Glaives will bounce from Bloon to Bloon automatically and aggressively.",
+    "effect": "Glaives automatically bounce towards each bloon with sharp turning. Pops up to 50 bloons per glaive."
+  },
+  {
+    "title": "M.O.A.R. Glaives",
+    "cost": "$3200",
+    "description": "Multiple Object Advanced Ricochet greatly enhances the already extraordinary powers of the Glaive Ricochet Monkey.",
+    "effect": "Pierce increased from 50 to 100, attack speed is doubled, and glaive bounce distance is increased."
+  },
+  {
+    "title": "Glaive Lord",
+    "cost": "$30000",
+    "description": "Glaive Lord surrounds itself in 3 special glaives that shred anything that comes near. Glaive Lord's glaives now rip through MOAB-class Bloons.",
+    "effect": "Gains a sharp 30 range zone that deals 2 damage every 0.1 seconds to all affected bloons in radius, including Camo Bloons, +5 to Ceramics, MOAB-class, and 2 more to Fortified. Main glaive now inflicts a shredding damage-over-time to MOAB-class, slowly dealing 100 damage every 1.0s for 15.1s."
+  },
+  {
+    "title": "Faster Throwing",
+    "cost": "$175",
+    "description": "Throws boomerangs faster.",
+    "effect": "Attacks +33% faster (0.75x attack cooldown)."
+  },
+  {
+    "title": "Faster Rangs",
+    "cost": "$250",
+    "description": "Boomerangs fire and travel faster.",
+    "effect": "Attacks +33% faster (0.75x attack cooldown) on top of the previous upgrade, and projectile speed increased."
+  },
+  {
+    "title": "Bionic Boomerang",
+    "cost": "$1600",
+    "description": "Replaces arm with a strong bionic arm that can throw boomerangs extremely fast and does extra damage to MOAB-class bloons.",
+    "effect": "Attacks over 5x faster (0.1983x attack cooldown) and deals +2 damage to MOAB-class."
+  },
+  {
+    "title": "Turbo Charge",
+    "cost": "$4000",
+    "description": "Turbo Charge ability: Makes this Monkey attack incredibly fast for 10 seconds.",
+    "effect": "Ability makes the Boomerang Monkey attack 7x faster and deal +1 damage for 10 seconds. Has a cooldown of 45 seconds."
+  },
+  {
+    "title": "Perma Charge",
+    "cost": "$35000",
+    "description": "Perma Charge has a permanent super fast attack speed. Ability increases the lethality even more.",
+    "effect": "Permanently gains Turbo Charge attack speed and deals 4 damage by default. Ability now deals +8 damage for 15 seconds, with a reduced cooldown of 40 seconds. With Red Hot Rangs, its attacks deal another +4 damage, and the ability deals +2 additional damage."
+  },
+  {
+    "title": "Long Range Rangs",
+    "cost": "$100",
+    "description": "Can throw boomerangs further than normal.",
+    "effect": "Gains +6.45 range and boomerangs are thrown on a wider curve."
+  },
+  {
+    "title": "Red Hot Rangs",
+    "cost": "$300",
+    "description": "Allows boomerangs to pop Frozen and Lead Bloons and do more damage to all.",
+    "effect": "Pops any bloon type and main attack and Glaive Lord's glaive orbitals deal +1 damage. Gives even more damage with Perma Charge."
+  },
+  {
+    "title": "Kylie Boomerang",
+    "cost": "$1300",
+    "description": "Throws heavy Kylie boomerangs that follow a straight path instead of curved.",
+    "effect": "Kylie boomerangs are thrown and returned in a straight path instead of curved. Pierce improves to 18 and can rehit the same bloons after 0.3 seconds."
+  },
+  {
+    "title": "MOAB Press",
+    "cost": "$2700",
+    "description": "Heavy Kylie boomerangs hit MOAB-Class Bloons multiple times per throw and sometimes knocks them back a short way along the path.",
+    "effect": "Throws a powerful knockback boomerang at MOAB-class bloons every once in a while, dealing 1 damage to Bloons in its path, and 5 to MOABs, while pushing them backwards by a set amount of distance. These boomerangs have 200 pierce and can redamage Bloons after 0.1 seconds. Path 1 upgrades increase pierce and knockback distance."
+  },
+  {
+    "title": "MOAB Domination",
+    "cost": "$60000",
+    "description": "Special knockback kylies trigger more often and do lots of extra damage.",
+    "effect": "Kylie boomerangs deal +10 damage, all attacks fire twice as fast, special knockback boomerangs deal increased MOAB damage, have +100 pierce, double range, and produce a powerful burning explosion upon projectile expiry for even more damage."
+  },
+  {
+    "title": "Bigger Bombs",
+    "cost": "$350",
+    "description": "Shoots larger bombs, they have a larger blast area and more popping power.",
+    "effect": "Explosions have much greater blast area (12 to 18) and pop +6 bloons."
+  },
+  {
+    "title": "Heavy Bombs",
+    "cost": "$650",
+    "description": "Heavy duty bombs can smash through 2 layers of Bloon at once and pop more Bloons.",
+    "effect": "Explosions deal +1 damage and pop an additional +10 bloons."
+  },
+  {
+    "title": "Really Big Bombs",
+    "cost": "$1200",
+    "description": "Huge bombs deal greater damage in a large area and allow Frags to pop more Bloons.",
+    "effect": "Explosions have even greater blast area (18 to 27), deal 3 damage instead of 2, and pop +20 bloons. With Frag Bombs, improves fragment pierce and lifespan."
+  },
+  {
+    "title": "Bloon Impact",
+    "cost": "$3600",
+    "description": "Explosions become so violent Bloons are stunned for a short time when they are hit. Range is increased and frags are even more effective.",
+    "effect": "Explosions stun affected bloons for 1.0s. Gains +3 range. With Frag Bombs, improves frag damage and lifespan."
+  },
+  {
+    "title": "Bloon Crush",
+    "cost": "$55000",
+    "description": "Bloon shattering explosions do massive damage and can stun MOAB-Class bloons.",
+    "effect": "Explosions deal even more damage, pop Black properties, and stun both MOAB-class and bloons for 2.0s. With Frag Bombs, fragments deal much more damage and gain more pierce."
+  },
+  {
+    "title": "Faster Reload",
+    "cost": "$250",
+    "description": "Reloads faster.",
+    "effect": "Attacks +33% faster (0.75x attack cooldown)."
+  },
+  {
+    "title": "Missile Launcher",
+    "cost": "$400",
+    "description": "Exchanges bombs for missiles, which fire faster, fly faster, and increase range.",
+    "effect": "Attacks +25% faster (0.80x attack cooldown) on top of the previous upgrade, gains +4 range, and gains extra projectile speed."
+  },
+  {
+    "title": "MOAB Mauler",
+    "cost": "$900",
+    "description": "MOAB Maulers do much more damage to MOAB-Class Bloons and ceramics.",
+    "effect": "Explosions deal 19 damage to MOAB-class and 2 damage to Ceramics. Also gains +5 range, but attack cooldown increases to 1.2s (?)."
+  },
+  {
+    "title": "MOAB Assassin",
+    "cost": "$3200",
+    "description": "Assassinate MOAB ability: Special missile flies out and does massive damage to MOAB-Class Bloons. Regular attack range and MOAB-class damage also increased.",
+    "effect": "Ability targets the strongest blimp on screen and deals an instant 750 damage to the first blimp hit. Main attack deals 31 damage to MOAB-class and 5 damage to Ceramics, and gains +5 range."
+  },
+  {
+    "title": "MOAB Eliminator",
+    "cost": "$25000",
+    "description": "Assassinate ability deals 6x damage with a short cooldown.",
+    "effect": "Ability targets the strongest blimp on screen and deals an instant 4500 damage to the first blimp hit with 3x faster ability cooldown. Main attack deals 130 damage to MOAB-class and damages Black properties."
+  },
+  {
+    "title": "Extra Range",
+    "cost": "$200",
+    "description": "Increases attack range.",
+    "effect": "Gains +7 range."
+  },
+  {
+    "title": "Frag Bombs",
+    "cost": "$300",
+    "description": "Explosions throw sharp fragments that can pop more Bloons including Black Bloons.",
+    "effect": "Explosions produce sharp fragments that pop up to 1 bloon each. Frags can also pop Black Bloons. Improves frags with higher-level Path 1 upgrades."
+  },
+  {
+    "title": "Cluster Bombs",
+    "cost": "$800",
+    "description": "Throws out secondary bombs instead of sharp fragments every shot.",
+    "effect": "Each main bomb explosion produces a secondary larger explosion that pop up to 40 (predicted?) bloons per secondary explosion."
+  },
+  {
+    "title": "Recursive Cluster",
+    "cost": "$3200",
+    "description": "Every second shot the cluster bombs send out more cluster bombs for even more destruction.",
+    "effect": "Every second shot, each bomb explodes up to three times centered in the same location, the third explosion being much bigger and pops up to 120 (predicted?) bloons."
+  },
+  {
+    "title": "Bomb Blitz",
+    "cost": "$35000",
+    "description": "Deals much more damage and when lives are lost, the Bomb Storm automatically triggers, which destroys all but the biggest of Bloons.",
+    "effect": "Deals 5 damage per explosion, pops Black Bloons, creates recursive explosions every shot, and gains a passive ability that deals an instant 2000 damage on screen and wipes out MOABs and below."
+  },
+  {
+    "title": "Faster Shooting",
+    "cost": "$150",
+    "description": "Shoots tacks faster.",
+    "effect": "Attacks +33% faster (0.75x attack cooldown)"
+  },
+  {
+    "title": "Even Faster Shooting",
+    "cost": "$400",
+    "description": "Shoots tacks even faster.",
+    "effect": "Attacks +66% faster (0.60x attack cooldown)"
+  },
+  {
+    "title": "Hot Shots",
+    "cost": "$600",
+    "description": "Shoots superhot tacks that do extra damage and can pop Lead Bloons.",
+    "effect": "Pops Frozen and Lead and tacks deal +1 damage."
+  },
+  {
+    "title": "Ring of Fire",
+    "cost": "$3500",
+    "description": "Damages many more Bloons with a deadly ring of flame instead of tacks.",
+    "effect": "Instead of tacks, creates bursts of flame that deal 3 damage per shot. Cannot pop Purples."
+  },
+  {
+    "title": "Inferno Ring",
+    "cost": "$45500",
+    "description": "Deadly inferno of flame roasts Bloons into oblivion.",
+    "effect": "Powerful bursts of flame deal 4 damage, 10 damage to MOAB-class, and attack much faster. Also creates explosive burning meteors that deal huge damage to the first bloon hit and set nearby bloons on fire."
+  },
+  {
+    "title": "Long Range Tacks",
+    "cost": "$100",
+    "description": "Tacks fly out further than normal.",
+    "effect": "Gains +4 range. Rings of Fire also gain +10 pierce."
+  },
+  {
+    "title": "Super Range Tacks",
+    "cost": "$225",
+    "description": "Even longer range tacks that can pop more Bloons.",
+    "effect": "Gains +1 pierce and another +4 range. Rings of Fire also gain another +10 pierce."
+  },
+  {
+    "title": "Blade Shooter",
+    "cost": "$600",
+    "description": "Switches tacks out for sharp blades that can pop up to 5 additional Bloons.",
+    "effect": "Instead of tacks, shoots sharp blades that pop up to 6 bloons instead of 2. Blades have larger hitboxes."
+  },
+  {
+    "title": "Blade Maelstrom",
+    "cost": "$2900",
+    "description": "Blade Maelstrom ability: Covers the area in a storm of blades.",
+    "effect": "For 3 seconds, the ability distributes two waves of blades in a clockwise direction."
+  },
+  {
+    "title": "Super Maelstrom",
+    "cost": "$15000",
+    "description": "Even more powerful Maelstrom ability and lasts longer.",
+    "effect": "For 9 seconds, the ability distributes four waves of higher damage blades in a clockwise direction. Can pop Frozen and Lead."
+  },
+  {
+    "title": "More Tacks",
+    "cost": "$100",
+    "description": "Shoots 10 tacks instead of 8, plus increases Ring of Fire damage.",
+    "effect": "Shoots 10 tacks per shot instead of 8. Rings of Fire gain +1 damage instead of more tacks."
+  },
+  {
+    "title": "Even More Tacks",
+    "cost": "$100",
+    "description": "Shoots out 12 tacks per shot and increases Ring of Fire damage further.",
+    "effect": "Shoots 12 tacks per shot instead of 10. Rings of Fire gain a further +1 damage instead of more tacks."
+  },
+  {
+    "title": "Tack Sprayer",
+    "cost": "$450",
+    "description": "Sprays out 16 tacks per volley.",
+    "effect": "Shoots 16 tacks per shot and attacks +33% faster (0.75x attack cooldown)"
+  },
+  {
+    "title": "Overdrive",
+    "cost": "$3200",
+    "description": "Shoots incredibly fast.",
+    "effect": "3x speed and +1 pierce."
+  },
+  {
+    "title": "The Tack Zone",
+    "cost": "$24000",
+    "description": "Many, many tacks.",
+    "effect": "Shoots 32 tacks per shot +33% faster (0.75x attack cooldown). Gains +7 range and does 2 damage per shot."
+  },
+  {
+    "title": "Permafrost",
+    "cost": "$100",
+    "description": "Bloons move slowly even after thawing out.",
+    "effect": "Slows bloons by 50% after thawing out. Lasts as many layers as the freeze does. At Tier 5, the Permafrost effect can affect blimps but by 25% instead."
+  },
+  {
+    "title": "Cold Snap",
+    "cost": "$350",
+    "description": "Can freeze and pop Lead and Camo bloons.",
+    "effect": "Allows the Ice monkey to pop and target Lead and Camo bloons"
+  },
+  {
+    "title": "Ice Shards",
+    "cost": "$1500",
+    "description": "Razor sharp shards fly out when Frozen Bloons pop.",
+    "effect": "Bloons frozen by this Ice Monkey will each release three shards in equal directions if the frozen layer is subsequently popped within a short period."
+  },
+  {
+    "title": "Embrittlement",
+    "cost": "$3200",
+    "description": "Detects Camo Bloons and all Bloons including MOABs hit become brittle, taking extra damage for a short time and losing Camo and Regrow properties permanently.",
+    "effect": "All bloons affected will become temporarily vulnerable to damage from sharp and freezing attacks, temporarily take +1 damage, and permanently lose Camo and Regrow properties. Can also pop white bloons."
+  },
+  {
+    "title": "Super Brittle",
+    "cost": "$28000",
+    "description": "Bloons take huge damage while frozen including MOAB class Bloons.",
+    "effect": "Bloons are temporarily vulnerable to +4 damage if struck with a freeze, on top of previous upgrade's benefits. Can now affect MOAB-class bloons, including stripping off DDT camo."
+  },
+  {
+    "title": "Enhanced Freeze",
+    "cost": "$225",
+    "description": "Attacks faster and freezes for longer.",
+    "effect": "Attacks +33% faster (0.75x attack cooldown) and freezes bloons for 2.2s instead of 1.5s."
+  },
+  {
+    "title": "Deep Freeze",
+    "cost": "$350",
+    "description": "Freezes through 2 layers of bloon and freezes for even longer.",
+    "effect": "Can freeze up to two layers, and freezes bloons for 3.0s (?) instead of 2.2s."
+  },
+  {
+    "title": "Arctic Wind",
+    "cost": "$2900",
+    "description": "Greatly increases pierce and gains a super cold aura that slows bloons and freezes water nearby.",
+    "effect": "Pierce increases from 40 to 100. Freeze-vulnerable bloons are slowed by 50% within range. Can freeze water to let land towers become placeable on water."
+  },
+  {
+    "title": "Snowstorm",
+    "cost": "$3000",
+    "description": "Snowstorm Ability: Freezes all regular bloons on screen, and briefly freezes white, zebra, camo and MOAB class.",
+    "effect": "Ability will freeze all bloons on screen, including White and Zebra, except Leads unless given lead-popping. MOAB-class, White, Zebra, and Camo are frozen for only 3 (?) seconds, while all other affected bloons are frozen for a full 6 seconds. Ability freeze soaks through 2 non-blimp layers."
+  },
+  {
+    "title": "Absolute Zero",
+    "cost": "$20000",
+    "description": "Ability freezes all regular Bloons for longer, including White, Zebra and Camo, slows MOAB-class longer, and increases the attack speed of all Ice Monkeys.",
+    "effect": "Freezes all bloons currently on screen for a full 10 seconds, including freeze-immune. For the same duration, all Ice Monkeys attack much faster. Both main attack and ability soak up to 4 non-blimp layers."
+  },
+  {
+    "title": "Larger Radius",
+    "cost": "$100",
+    "description": "Larger freeze area.",
+    "effect": "Gains +7 range."
+  },
+  {
+    "title": "Re-Freeze",
+    "cost": "$200",
+    "description": "Can re-freeze Bloons that are already frozen.",
+    "effect": "Self-explanatory"
+  },
+  {
+    "title": "Cryo Cannon",
+    "cost": "$1750",
+    "description": "Shoots freezing bombs at bloons over long range.",
+    "effect": "Converts slow radial ice blasts into moderately fast-shooting snowballs that deal 2 damage each. Gains more range."
+  },
+  {
+    "title": "Icicles",
+    "cost": "$2000",
+    "description": "Frozen Bloons grow sharp icicles that can pop Bloons that touch them.",
+    "effect": "Bloons affected by ice blasts will grow sharp icicles on top of them. Icicles deal 2 damage onto up to 3 bloons and act like spike piles. Icicles will thaw after a few seconds."
+  },
+  {
+    "title": "Icicle Impale",
+    "cost": "$30000",
+    "description": "Shoots huge icicle spikes that do huge damage to MOAB Class bloons and freezes them.",
+    "effect": "Can target MOAB-class bloons and attacks slightly faster. Affected MOAB-class bloons are dealt 50 damage each and become frozen."
+  },
+  {
+    "title": "Glue Soak",
+    "cost": "$200",
+    "description": "Glue soaks through all layers of Bloon.",
+    "effect": "Soaks through all non-blimp layers of bloon. Cannot soak through MOAB-class, even with upgrades."
+  },
+  {
+    "title": "Corrosive Glue",
+    "cost": "$300",
+    "description": "Glued Bloons pop one layer every few seconds.",
+    "effect": "Slowly deals damage to bloons every 2.3s while glued. Can target MOAB-class but does not slow them down and only lasts for half duration."
+  },
+  {
+    "title": "Bloon Dissolver",
+    "cost": "$2500",
+    "description": "Extreme solvents melt two layers every second.",
+    "effect": "Corrosion rate increases from 1 damage per 2.3s to 1 damage per 0.575s."
+  },
+  {
+    "title": "Bloon Liquefier",
+    "cost": "$5000",
+    "description": "Can glue one additional Bloon per shot and applies liquefying compounds that do 10 pops every second.",
+    "effect": "Corrosion rate increases from 1 damage per 0.575s to 1 damage per 0.1s, and glue gains +1 pierce."
+  },
+  {
+    "title": "The Bloon Solver",
+    "cost": "$19000",
+    "description": "Bloons a problem? Here's the solution.",
+    "effect": "Corrosion rate increases versus Ceramics and MOAB-class from 1 damage per 0.1s to 3 damage every 0.1s. Glue attack becomes a twin splatter attack with 6 pierce per splash."
+  },
+  {
+    "title": "Bigger Globs",
+    "cost": "$100",
+    "description": "Can coat 2 Bloons per shot.",
+    "effect": "Glue projectile gains +1 pierce."
+  },
+  {
+    "title": "Glue Splatter",
+    "cost": "$700",
+    "description": "Splatters glue across up to 6 Bloons per shot.",
+    "effect": "Converts glue attack into a splash attack, gluing up to 6 bloons per shot (equivalent to +4 pierce)."
+  },
+  {
+    "title": "Glue Hose",
+    "cost": "$2,000",
+    "description": "Shoots glue 3x as fast!",
+    "effect": "Triples its attack speed."
+  },
+  {
+    "title": "Glue Strike",
+    "cost": "$4000",
+    "description": "Glue Strike ability: Glues all Bloons on screen, causing them to take more damage from all sources while it lasts.",
+    "effect": "Gains an ability that glues all bloons currently on screen and renders affected bloons vulnerable to +1 damage while glued."
+  },
+  {
+    "title": "Glue Storm",
+    "cost": "$15000",
+    "description": "Glue Storm ability pelts the whole screen over 15 seconds with glue. Glued Bloons take extra damage while glued.",
+    "effect": "Ability improved, allowing the ability to glue all bloons currently on screen every 2.0s until the ability expires. Alongside effects from its predecessor, ability glue now has double slowdown and gains double lifespan."
+  },
+  {
+    "title": "Stickier Glue",
+    "cost": "$120",
+    "description": "Makes glue effect last much longer.",
+    "effect": "Glue lasts for 24.0s instead of 11.0s."
+  },
+  {
+    "title": "Stronger Glue",
+    "cost": "$400",
+    "description": "Slows down Bloons even more.",
+    "effect": "Slows down bloons by 75% instead of 50%."
+  },
+  {
+    "title": "MOAB Glue",
+    "cost": "$3,400",
+    "description": "Improved glue formula allows it to stick to MOAB-class Bloons.",
+    "effect": "Can glue MOAB-class bloons and slows them down by 37.5% for half the duration."
+  },
+  {
+    "title": "Relentless Glue",
+    "cost": "$3,000",
+    "description": "Popped Bloons that were glued leave a blob of glue on the track.",
+    "effect": "If the Glue Gunner glues a bloon, a popped bloon will spawn a blob of glue on the track."
+  },
+  {
+    "title": "Super Glue",
+    "cost": "$28,000",
+    "description": "Glue so strong it temporarily immobilizes all affected Bloons!",
+    "effect": "Improves the glue slowdown greatly. Locks MOABs, DDTs, and non-MOAB-class bloons in place, while immensely slowing down BFBs and ZOMGs. Increases base pierce by 6."
+  },
+  {
+    "title": "Full Metal Jacket",
+    "cost": "$300",
+    "description": "Shots pop through 4 layers of bloon, and both bullets and shrapnel can pop Lead and Frozen Bloons.",
+    "effect": "Self-Explanatory"
+  },
+  {
+    "title": "Large Calibre",
+    "cost": "$1000",
+    "description": "Shots can pop through 7 layers of Bloon.",
+    "effect": "Bullets deal 7 damage instead of 4. With Shrapnel Shot, each shrapnel piece deals 2 damage instead of 1."
+  },
+  {
+    "title": "Deadly Precision",
+    "cost": "$2800",
+    "description": "20 damage per shot, plus bonus damage to Ceramics.",
+    "effect": "Bullets deal 20 damage plus +15 damage to Ceramics. With Shrapnel Shot, each shrapnel piece deals 4 damage instead of 2."
+  },
+  {
+    "title": "Maim MOAB",
+    "cost": "$5000",
+    "description": "Immobilizes MOAB class bloons for a short time.",
+    "effect": "Bullets temporarily stun MOAB-class bloons and deal 30 damage instead of 20. With Shrapnel Shot, each shrapnel piece deals 6 damage instead of 4 and can stun MOAB-class bloons."
+  },
+  {
+    "title": "Cripple MOAB",
+    "cost": "$34000",
+    "description": "Crippled MOABs are immobilized for longer and take extra damage from all other attacks.",
+    "effect": "Bullets temporarily cripple MOAB-class bloons, rendering them vulnerable to +5 damage and become stunned for longer, on top of 80 damage per bullet instead of 30. With Shrapnel Shot, each shrapnel piece deals 12 damage instead of 6 and can cripple MOAB-class bloons."
+  },
+  {
+    "title": "Night Vision Goggles",
+    "cost": "$300",
+    "description": "Allows Sniper to detect and do an additional 2 damage to Camo bloons.",
+    "effect": "Gain camo detection, and bullets deal +2 damage to Camo Bloons."
+  },
+  {
+    "title": "Shrapnel Shot",
+    "cost": "$400",
+    "description": "Damaged bloons spray out a cone of sharp shrapnel.",
+    "effect": "If a bloon is damaged, it will spray out a cone of sharp shrapnel in the same direction as the bullet. Shrapnel improves damage potential with Path 1 upgrades. Shrapnel cannot hit the same bloon from where it spawns from."
+  },
+  {
+    "title": "Bouncing Bullet",
+    "cost": "$3000",
+    "description": "Shots bounce to new targets up to 3 times.",
+    "effect": "Bullet now can pop up to 4 bloons each. Bullets produce shrapnel in the direction of the bullet prior to collision every time they damage bloons."
+  },
+  {
+    "title": "Supply Drop",
+    "cost": "$5800",
+    "description": "Supply Drop ability: Drops a crate full of cash. Regular attack also damages Lead Bloons and increases Shrapnel popping power.",
+    "effect": "Ability gives $2000 cash when deployed cash crate is collected. Bullets pop Frozen and Lead."
+  },
+  {
+    "title": "Elite Sniper",
+    "cost": "$13000",
+    "description": "Supply Drop gives much more cash. Grants Elite targeting prio and faster reload to all snipers.",
+    "effect": "Ability gives $5000 cash when deployed cash crate is collected. Attacks +150% faster (0.4x attack cooldown) and gives all other Snipers with +33% attack speed (0.75x attack cooldown)."
+  },
+  {
+    "title": "Fast Firing",
+    "cost": "$350",
+    "description": "Shoots faster than normal.",
+    "effect": "Gains +42% attack speed (0.70x attack cooldown)."
+  },
+  {
+    "title": "Even Faster Firing",
+    "cost": "$350",
+    "description": "Shoots even faster!",
+    "effect": "Gains a further +42% attack speed (0.70x attack cooldown)."
+  },
+  {
+    "title": "Semi-Automatic",
+    "cost": "$3300",
+    "description": "Attacks 3x as fast!",
+    "effect": "3x attack speed on top of previous upgrades."
+  },
+  {
+    "title": "Full Auto Rifle",
+    "cost": "$4750",
+    "description": "Fully automatic weapon with incredible popping power.",
+    "effect": "2x attack speed on top of previous upgrades."
+  },
+  {
+    "title": "Elite Defender",
+    "cost": "$16000",
+    "description": "A lost life gives this Sniper 4x attack speed for a short time in retaliation. Also attacks faster the further the Bloons are along the track.",
+    "effect": "2x attack speed on top of previous upgrades, as well as attacking an additive percentage amount faster depending on how close the Bloons are nearing the exit. If lives are lost, attacks 4x faster on top of other attack speed bonuses."
+  },
+  {
+    "title": "Longer Range",
+    "cost": "$130",
+    "description": "Increases attack range.",
+    "effect": "Gains +10 range."
+  },
+  {
+    "title": "Advanced Intel",
+    "cost": "$500",
+    "description": "Allows long range targeting of Bloons in radius of your other towers.",
+    "effect": "Allows the Monkey Sub to target any bloon within the range of any tower on screen. Can target Camo Bloons with the range of any tower with direct camo detection."
+  },
+  {
+    "title": "Submerge and Support",
+    "cost": "$500",
+    "description": "Adds Submerge targeting option that permanently reveals Camo bloons in its radius but does not attack while submerged.",
+    "effect": "Gains the Submerge targeting option. When active, it produces a non-damaging decamo wave every 1.5s that hits all bloons within range, but the Sub cannot use other attacks while submerged."
+  },
+  {
+    "title": "Bloontonium Reactor",
+    "cost": "$2800",
+    "description": "Submerge to detect Camo, pop Bloons and reduce ability cooldowns of nearby water-based Monkeys by 15%.",
+    "effect": "When submerged, creates a radioactive damage zone that pops up to 50 bloons every cycle, decamos much faster, and reduces ability cooldowns of nearby water-based towers by 15%."
+  },
+  {
+    "title": "Energizer",
+    "cost": "$32000",
+    "description": "Reduces ability cooldowns everywhere by 20%. While in radius, heroes earn XP 50% faster and water Monkey ability cooldowns are halved.",
+    "effect": "Submerging allows its damage zone to deal 3 damage per cycle instead of 1, reduces ability cooldowns of all towers on screen by 20%, gives nearby heroes with 50% more XP, and nearby water-based towers gain 50% reduced ability cooldowns instead of 15%."
+  },
+  {
+    "title": "Barbed Darts",
+    "cost": "$450",
+    "description": "Sub's darts can pop an additional 3 bloons each.",
+    "effect": "Darts pop 5 bloons per shot instead of 2. Also gives Reactors +20 pierce."
+  },
+  {
+    "title": "Heat-tipped Darts",
+    "cost": "$300",
+    "description": "Heat tipped darts allow popping of Frozen and Lead Bloons.",
+    "effect": "Darts can pop Frozen and Lead Bloons. Also gives Reactors +30 pierce, for a total of +50 pierce."
+  },
+  {
+    "title": "Ballistic Missile",
+    "cost": "$1400",
+    "description": "Missile seeks target within range and does extra MOAB and Ceramic damage.",
+    "effect": "Gains a ballistic missile attack. Missiles fly in the sky and crash onto the target bloon. Missile explosions deal 6 damage to MOAB-class and Ceramics."
+  },
+  {
+    "title": "First Strike Capability",
+    "cost": "$13000",
+    "description": "First Strike Ability: A devastating missile strike targeting the largest bloon on screen, plus splash damage.",
+    "effect": "Ability shoots a large missile that deals 10,000 damage onto the strongest bloon on screen plus a splash with 350 damage onto up to 80 bloons."
+  },
+  {
+    "title": "Pre-Emptive Strike",
+    "cost": "$32000",
+    "description": "Automatically triggers a powerful missile attack whenever MOAB-Class Bloon spawns from the Bloon entrance.",
+    "effect": "Every time a MOAB-class bloon enters the screen, it will automatically inflict 750 damage to them. In addition, it gains even stronger and faster ballistic missiles and a faster ability cooldown."
+  },
+  {
+    "title": "Twin Guns",
+    "cost": "$450",
+    "description": "Added twin gun doubles attack speed. Enhances Ballistic Missile and Bloontonium Reactor.",
+    "effect": "Dart gains 2x attack speed, and the attack speed of alternate attacks increases."
+  },
+  {
+    "title": "Airburst Darts",
+    "cost": "$800",
+    "description": "Airburst darts split into 3 on impact for massively increased popping power. Further enhances Ballistic Missile and Bloontonium Reactor.",
+    "effect": "Main dart now splits into 3 darts on impact, and the attack speed of alternate attacks further increases."
+  },
+  {
+    "title": "Triple Guns",
+    "cost": "$950",
+    "description": "Adds a third gun for even faster firing.",
+    "effect": "Increases attack speed by 1.5x. Retains the Airburst Darts attack."
+  },
+  {
+    "title": "Armor Piercing Darts",
+    "cost": "$2800",
+    "description": "Special AP darts gain increased damage and popping power, plus additional damage to MOAB class Bloons.",
+    "effect": "Main dart deals 2 damage on-hit, 4 versus MOAB-class, while airburst darts have 5 pierce per dart instead of 2 and deal 2 damage versus MOAB-class."
+  },
+  {
+    "title": "Sub Commander",
+    "cost": "$25000",
+    "description": "Adds extra pierce and damage to Commander and all Subs in its radius.",
+    "effect": "All Subs within range will deal double damage and gain +4 pierce."
+  },
+  {
+    "title": "Faster Shooting",
+    "cost": "$350",
+    "description": "All weapons on board shoot faster.",
+    "effect": "Attacks +33% faster (0.75x attack cooldown)"
+  },
+  {
+    "title": "Double Shot",
+    "cost": "$550",
+    "description": "Double ship weapons fired.",
+    "effect": "Doubles the numbers of darts and grapes per shot."
+  },
+  {
+    "title": "Destroyer",
+    "cost": "$2850",
+    "description": "Attacks super duper fast!",
+    "effect": "Attacks 5x faster for all attacks."
+  },
+  {
+    "title": "Aircraft Carrier",
+    "cost": "$7200",
+    "description": "Launches waves of fighter planes that strafe their targets and fire missiles at MOAB class Bloons.",
+    "effect": "Carrier planes continuously attack with fast front-shooting twin darts, radial darts, and anti-MOAB missiles."
+  },
+  {
+    "title": "Carrier Flagship",
+    "cost": "$25000",
+    "description": "Does extra damage. Can place other Monkeys on the upper decks of the ship and increases attack speed of all water based Monkeys and Monkey Aces.",
+    "effect": "All its attacks can pop any bloon type and deal even more damage. Towers placed on its upper decks will partially ignore Line of Sight. Attack speed of all water-based towers and Monkey Aces increased by +18% (0.85x attack cooldown)."
+  },
+  {
+    "title": "Grape Shot",
+    "cost": "$550",
+    "description": "Adds a spray of 5 sharpened grapes to the ship.",
+    "effect": "Regularly shoots 5 grapes alongside its dart attack. Grapes pop up to 1 bloon each. Can shoot from both sides."
+  },
+  {
+    "title": "Hot Shot",
+    "cost": "$500",
+    "description": "Burning hot grape shot can pop Lead Bloons and set Bloons on fire.",
+    "effect": "Converts grapes into hot grapes of fire, popping Lead Bloons and applying napalm. Hot grapes cannot pop Purples."
+  },
+  {
+    "title": "Cannon Ship",
+    "cost": "$900",
+    "description": "Adds a powerful cannon that shoots out powerful bombs.",
+    "effect": "Shoots bombs with a large explosion radius, 28 pierce, and emits eight frags, similar to the 1-0-2 Bomb Shooter. Can shoot from both sides."
+  },
+  {
+    "title": "Monkey Pirates",
+    "cost": "$4500",
+    "description": "Adds 2 cannons to the ship and cannon attacks do more damage. MOAB Takedown Ability: harpoons a MOAB class Bloon and brings it down.",
+    "effect": "Ability immediately pulls down the strongest blimp on screen other than ZOMGs or BADs, instantly destroying them. Main attack shoots 3 bombs per shot and deal 2 damage each."
+  },
+  {
+    "title": "Pirate Lord",
+    "cost": "$21000",
+    "description": "Greatly increased attack speed for all attacks and can shoot 3 grappling hooks at once.",
+    "effect": "Ability now shoots 3 grappling hooks at once, and can pull ZOMGs down with 2 hooks. Attacks 2x faster and grapes deal 5 damage, with 5 extra damage to Ceramic bloons."
+  },
+  {
+    "title": "Long Range",
+    "cost": "$180",
+    "description": "Much longer range and projectiles fly faster.",
+    "effect": "Gains +11 range, and increases projectile speed of all projectiles by +25%."
+  },
+  {
+    "title": "Crow's Nest",
+    "cost": "$400",
+    "description": "Allows the ship to hit Camo Bloons.",
+    "effect": "Gains camo detection."
+  },
+  {
+    "title": "Merchantman",
+    "cost": "$1800",
+    "description": "Generates cash each round automatically.",
+    "effect": "At the end of each round, generates $300."
+  },
+  {
+    "title": "Favored Trades",
+    "cost": "$6000",
+    "description": "Attacks faster and generates lots of money per round. Monkeys in radius have increased sell value.",
+    "effect": "2x faster attack speed, generates $1000 at the end of each round, and increases sell value of nearby towers by 10%. Does not stack with other Favored Trades."
+  },
+  {
+    "title": "Trade Empire",
+    "cost": "$23000",
+    "description": "Generates more cash per round, increases cash earned by up to 20 other Merchantmen by the number of Merchantmen, and boosts all Merchantmen damage.",
+    "effect": "Boosts income of up to 20 Merchantmen or Favored Trades by +$50 (?) for every Merchantman or Favored Trades on screen. All Buccaneers with at least the Merchantman upgrade gain +1 damage and another +1 damage to MOAB-class and Ceramic. Generates $2000 per round."
+  },
+  {
+    "title": "Rapid Fire",
+    "cost": "$550",
+    "description": "Shoots faster than normal.",
+    "effect": "Attacks +33% faster (0.75x attack cooldown)."
+  },
+  {
+    "title": "Lots More Darts",
+    "cost": "$650",
+    "description": "Shoots 12 darts at a time.",
+    "effect": "Each dart volley shoots 12 darts at a time. For Spectres and Flying Fortress, darts gain extra pierce."
+  },
+  {
+    "title": "Fighter Plane",
+    "cost": "$1000",
+    "description": "Flies fast and launches anti-MOAB missiles.",
+    "effect": "Regularly shoots twin anti-MOAB missiles that deal 18 damage per shot. Anti-MOAB missiles can only target MOAB-class bloons."
+  },
+  {
+    "title": "Operation: Dart Storm",
+    "cost": "$3000",
+    "description": "Shoots 16 darts per volley, and twice as fast.",
+    "effect": "Shoots 16 darts per volley, attacks 2x faster, increases fighter plane missile damage to 24, and slightly increases pierce of anti-MOAB missile explosions (check numbers)."
+  },
+  {
+    "title": "Sky Shredder",
+    "cost": "$40000",
+    "description": "The bloons will wish they had never come.",
+    "effect": "Attacks even faster, pops any bloon type, and shoots 32 darts per volley. Anti-MOAB missiles deal 150 damage and up to 6 blimps (check numbers)."
+  },
+  {
+    "title": "Exploding Pineapple",
+    "cost": "$200",
+    "description": "Drops pineapples to the ground that explode violently after a few seconds. Ace's explosive attacks are improved.",
+    "effect": "Drops exploding pineapples onto the ground every few seconds, and increases the pierce and blast radius of all of Ace's explosive attacks. Pineapples explode after a few seconds and deal 1 damage to up to 20 bloons (check numbers)."
+  },
+  {
+    "title": "Spy Plane",
+    "cost": "$350",
+    "description": "Allows Monkey Ace to hit Camo Bloons.",
+    "effect": "Self-explanatory"
+  },
+  {
+    "title": "Bomber Ace",
+    "cost": "$900",
+    "description": "Drops a line of bombs when crossing the Bloon track.",
+    "effect": "Regularly drops an array of 4 bombs along nearby bloon track. Bombs deal 3 damage per explosion (check numbers)."
+  },
+  {
+    "title": "Ground Zero",
+    "cost": "$14000",
+    "description": "Bomb damage increased significantly. Ground Zero Ability: Drops a huge bomb that destroys most things on screen.",
+    "effect": "Ability drops a nuke that inflicts 700 damage to all bloons on screen, including explosion-immune bloons, affecting up to 1000 bloons on screen and wiping out any weaker bloons. Main bomb explosions deal 10 damage instead of 3 (check all numbers)."
+  },
+  {
+    "title": "Tsar Bomba",
+    "cost": "$35000",
+    "description": "A very, very large bomb. Someone put a stop to craziness!",
+    "effect": "Ability nuke deals 3000 damage, affects up to 5000 bloons on screen, and stuns all survivors of the blast. Main bomb explosions pop any bloon type (check numbers)."
+  },
+  {
+    "title": "Sharper Darts",
+    "cost": "$450",
+    "description": "Darts can pop 8 Bloons each.",
+    "effect": "Darts pop up to 8 bloons and bombs gain +12 pierce (check numbers)."
+  },
+  {
+    "title": "Centered Path",
+    "cost": "$300",
+    "description": "New central flight path for maximum map coverage.",
+    "effect": "Gains the Centered Path flight path, which moves the Ace along a unified path in a circular formation. This flight path can be adjusted so it flies around a different central point."
+  },
+  {
+    "title": "Neva-Miss Targeting",
+    "cost": "$2200",
+    "description": "Darts automatically seek out and pop Bloons by themselves.",
+    "effect": "Darts will automatically rotate to continuously seek at nearby bloons."
+  },
+  {
+    "title": "Spectre",
+    "cost": "$24000",
+    "description": "Rapidly fires darts and bombs, dominating most Bloon types easily.",
+    "effect": "Exchanges volleys of seeking darts for rapid-fire alternating darts and bombs. Darts seek slightly, deal 2 damage per shot, and pop up to 30 bloons. Bombs deal 3 damage to up to 60 bloons (check numbers)."
+  },
+  {
+    "title": "Flying Fortress",
+    "cost": "$85000",
+    "description": "This is a BIG plane.",
+    "effect": "Attacks +50% faster (0.66x attack cooldown), shoots three rapid-fire attacks at once with different target priorities (First, Last, Close), and pops any bloon type (check numbers)."
+  },
+  {
+    "title": "Quad Darts",
+    "cost": "$600",
+    "description": "Shoots 4 darts per volley instead of 2.",
+    "effect": "Self-explanatory"
+  },
+  {
+    "title": "Pursuit",
+    "cost": "$400",
+    "description": "A new targeting option enables Heli to seek and pursue the Bloons automatically.",
+    "effect": "Automatically moves in front of the bloon closest to the exit."
+  },
+  {
+    "title": "Razor Rotors",
+    "cost": "$1750",
+    "description": "Razor Rotor blades rip up Bloons on contact, including Lead and Frozen Bloons.",
+    "effect": "Bloons within close range of the Heli Pilot become damaged, including Frozen and Leads. Pops up to 10 bloons and deals 2 damage per cycle (check these numbers)."
+  },
+  {
+    "title": "Apache Dartship",
+    "cost": "$19,600",
+    "description": "Adds a large missile array and powerful machine guns.",
+    "effect": "Gains a dart-shooting machine gun attack alongside quad homing missiles that deal 2 damage per missile (check damage)."
+  },
+  {
+    "title": "Apache Prime",
+    "cost": "$45000",
+    "description": "The Apache Prime leaves most Bloons wishing they'd never been inflated.",
+    "effect": "Quad dart replaced with lasers, dealing 6 damage and having greatly increased pierce. Machine gun replaced with plasma dealing 5 damage, and more pierce, and missiles deal 17 damage to MOAB class Bloons instead of 2 (check these numbers)."
+  },
+  {
+    "title": "Bigger Jets",
+    "cost": "$300",
+    "description": "Powerful jets make Heli move much faster.",
+    "effect": "Heli Pilot moves +75% faster. With MOAB Shove, improves MOAB Shove effect."
+  },
+  {
+    "title": "IFR",
+    "cost": "$450",
+    "description": "Allows Heli Pilot to detect and shoot Camo Bloons.",
+    "effect": "Allows the Heli to detect and attack Camo Bloons. Improves MOAB Shove even more."
+  },
+  {
+    "title": "Downdraft",
+    "cost": "$3,000",
+    "description": "Blows Bloons away from the Heli, back toward the entrance.",
+    "effect": "Periodically blows back 1 bloon at a time at a rate of 6.67 bloons per second (check numbers). Can blowback even faster with Faster Firing."
+  },
+  {
+    "title": "Support Chinook",
+    "cost": "$7,000",
+    "description": "Abilities: Drops lives and cash crates, or can pick up and redeploy most Monkey types.",
+    "effect": "Gains two abilities, a crate ability and a redeployment ability. Crates give bonus lives and bonus cash. Can redeploy all \"non-heavy\" types of tower."
+  },
+  {
+    "title": "Special Poperations",
+    "cost": "$30000",
+    "description": "Deploys a powerful special Monkey Marine with machine gun.",
+    "effect": "Gains an ability that deploys a Marine. The Marine comes with a powerful machine gun that deals 6 damage to up to 20 bloons per dart, pops any bloon type, and comes with camo detection (check stats). The Marine shoots faster with Faster Firing upgrade."
+  },
+  {
+    "title": "Faster Darts",
+    "cost": "$250",
+    "description": "Darts are propelled much faster through the air.",
+    "effect": "Improves projectile speed of main dart attack."
+  },
+  {
+    "title": "Faster Firing",
+    "cost": "$350",
+    "description": "Faster attack speed for all Heli attacks.",
+    "effect": "Attacks +25% faster (0.80x attack cooldown)."
+  },
+  {
+    "title": "MOAB Shove",
+    "cost": "$3,500",
+    "description": "Can collide with and shove MOAB-Class Bloons, reversing or slowing their movement. Shove is amplified by Bigger Jets and IFR upgrades.",
+    "effect": "Shoves back against MOAB-class bloons close to it, pushing them backwards or slowing down their movement. Improves shove effect with the Bigger Jets upgrade. Also adds a slow firing missile attack."
+  },
+  {
+    "title": "Comanche Defense",
+    "cost": "$8,500",
+    "description": "Automatically calls in mini Comanches when they're most needed.",
+    "effect": "Mini-Comanches can be summoned once bloons reach a certain percentage of the bloon track, one more for every 25% of the bloon track surpassed, capped at 3. Mini-Comanches shoot darts and missiles and automatically attack on Pursuit."
+  },
+  {
+    "title": "Comanche Commander",
+    "cost": "$35,000",
+    "description": "Upgraded weapons. Also automatically calls in 3 more Comanches. Permanently.",
+    "effect": "All attacks deal +1 damage (check numbers), and the 3 mini-Comanches are now permanent."
+  },
+  {
+    "title": "Bigger Blast",
+    "cost": "$500",
+    "description": "Bigger shells deliver a bigger blast radius.",
+    "effect": "Each explosion produces a large explosion radius (20 to 30), and increases main pierce from 40 to 45 (check numbers)."
+  },
+  {
+    "title": "Bloon Buster",
+    "cost": "$650",
+    "description": "Smash through 2 layers of Bloon at once!",
+    "effect": "Explosions deal 2 damage instead of 1."
+  },
+  {
+    "title": "Shell Shock",
+    "cost": "$1100",
+    "description": "Blast shockwave stuns bloons at impact, pops bloons in a wider area, and increases Burny Stuff damage.",
+    "effect": "Creates a secondary shockwave explosion that stuns bloons close to the epicenter and deals extra damage further from the main explosion. When given Burny Stuff, deals 2 damage per tick instead of 1. Explosion radius of main explosion slightly increased from 30 to 40 (check numbers)."
+  },
+  {
+    "title": "The Big One",
+    "cost": "$8000",
+    "description": "Devastating explosions pop 5 layers of bloon, plus increases Burny Stuff damage further.",
+    "effect": "Explosion radius is even bigger (40 to 60), deals 5 damage per main explosion, and increases main pierce from 45 to 85. When given Burny Stuff, deals 3 damage per tick instead of 2 (check numbers)."
+  },
+  {
+    "title": "The Biggest One",
+    "cost": "$28000",
+    "description": "Blasts deeply through Bloons and layers over a huge area, plus powerful Burny Stuff damage.",
+    "effect": "Creates gigantic explosions (60 to 75) that deal 20 damage per main explosion, plus +20 to Ceramics and MOAB-class, and pops 200 bloons instead of 85. Shockwave explosion deals +10 damage to Ceramics. When given Burny Stuff, deals 25 damage per tick instead of 3 (check numbers)."
+  },
+  {
+    "title": "Faster Reload",
+    "cost": "$300",
+    "description": "Increases the attack speed of the Mortar.",
+    "effect": "Gains +33% attack speed (an equivalent value from 0.75x attack cooldown) (check numbers)."
+  },
+  {
+    "title": "Rapid Reload",
+    "cost": "$500",
+    "description": "Even faster reload.",
+    "effect": "Gains +28% attack speed (an equivalent value from 0.78x attack cooldown) (check numbers)."
+  },
+  {
+    "title": "Heavy Shells",
+    "cost": "$900",
+    "description": "Heavy shells do extra damage to Ceramic, Lead, all Fortified, and all stunned bloons. Can also pop black Bloons.",
+    "effect": "Explosions pop Black Bloons and deal +3 damage to Ceramics, +1 damage to Leads, +1 damage to Fortified, +1 damage to MOAB-class, and +2 damage to stunned bloon (check numbers)."
+  },
+  {
+    "title": "Artillery Battery",
+    "cost": "$5500",
+    "description": "Bombardment Ability: Unleashes a rapid fire attack in a slightly wider area. Main attack upgrades to 3 barrels for incredibly fast attacks.",
+    "effect": "4x attack speed. Ability increases attack speed by another 4x and blast radius by +15% (check numbers)."
+  },
+  {
+    "title": "Pop and Awe",
+    "cost": "$30000",
+    "description": "Pop and Awe Ability: rains explosions over the whole screen, damaging and immobilizing all bloons for a few seconds. Main attack gains additional bonus damage to stunned Bloons.",
+    "effect": "Ability stuns all bloons on screen repetitively every 1 second for 8 seconds. Main attack gains quadruple the additive special bonus damage bonuses for all except stunned, which gives +10 instead of +2 (check numbers)."
+  },
+  {
+    "title": "Increased Accuracy",
+    "cost": "$200",
+    "description": "Makes the shots more accurate.",
+    "effect": "Reduces deviation radius from ~18 to ~8 (check numbers)."
+  },
+  {
+    "title": "Burny Stuff",
+    "cost": "$500",
+    "description": "Damaged Bloons are set ablaze momentarily with each hit.",
+    "effect": "Affected bloons slowly deal 1 damage every 1.25s for 3.75s after getting ignited with napalm (check numbers)."
+  },
+  {
+    "title": "Signal Flare",
+    "cost": "$700",
+    "description": "Camo Bloons popped by flares lose their camouflage permanently.",
+    "effect": "Explosions produce secondary flares that strip camo properties off any bloon hit, including Camo Blacks and Camo Zebras, but not DDTs (check DDTs). Can detect Camo Bloons."
+  },
+  {
+    "title": "Shattering Shells",
+    "cost": "$11000",
+    "description": "Shattering shells strip all special bloon properties off all but the biggest bloons.",
+    "effect": "Strips all Camo, Regrow, Lead and Fortified from non-MOAB-class bloons, and strips Fortified from MOABs and BFBs. (check if strips lead from DDTs)"
+  },
+  {
+    "title": "Blooncineration",
+    "cost": "$40000",
+    "description": "Superhot burny stuff melts through 5 layers of bloon each shot, burns MOAB class bloons for extra damage, and strips DDT camo.",
+    "effect": "Burns faster, and deals more burning damage, 5 damage to bloons and 100 damage to blimps per damage tick. Blazes are also produced at the location where the explosions landed, dealing contact damage to passing bloons. Explosions also strip camo and fortified properties from DDTs. (check numbers)"
+  },
+  {
+    "title": "Focused Firing",
+    "cost": "$250",
+    "description": "Increases accuracy of the Dartling Gun.",
+    "effect": "Decreases deviation radius from ~18 to ~7.2, reducing projectile deviation by 60%."
+  },
+  {
+    "title": "Laser Shock",
+    "cost": "$800",
+    "description": "Laser tipped shots shock bloons into popping again 1 second after being struck.",
+    "effect": "Every point of damage applies an extra electric shock damage-over-time onto affected Bloons. Dartling Gunners with this upgrade also deal bonus damage to shocked Bloons."
+  },
+  {
+    "title": "Laser Cannon",
+    "cost": "$4,250",
+    "description": "Rapidly fires much more powerful laser blasts that can pop frozen Bloons.",
+    "effect": "Converts into a laser attack that deals increased damage and pierce. Damage improves from 1 to 2, pierce from 1 to 4, and additionally improves duration of Laser Shock effect."
+  },
+  {
+    "title": "Plasma Accelerator",
+    "cost": "$11,000",
+    "description": "TBA: Concentrates a powerful beam of energy to a single point.",
+    "effect": "TBA: Generates a powerful beam of energy towards a single point instead of shooting fast lasers, popping bloons that make regular contact with them. Any remaining pierce is used to inflict greater damage, starting with the bloons closest to the endpoint. Affected bloons additionally will be affected by an even longer-lasting Laser Shock effect."
+  },
+  {
+    "title": "Ray of Doom",
+    "cost": "$80,000",
+    "description": "Creates a solid line of annihilation. You can erase most Bloons at your leisure.",
+    "effect": "Produces an endless death ray that rapidly destroys bloons, inflicts huge damage, and pierces up to 1000 bloons instead of 50. Laser Shock deals much more damage."
+  },
+  {
+    "title": "Advanced Targeting",
+    "cost": "$250",
+    "description": "Allows Dartling Gunner to hit Camo Bloons.",
+    "effect": "Self-explanatory"
+  },
+  {
+    "title": "Faster Barrel Spin",
+    "cost": "$500",
+    "description": "Makes gun fire much faster.",
+    "effect": "Attacks +50% faster (0.66x attack cooldown)."
+  },
+  {
+    "title": "Hydra Rocket Pods",
+    "cost": "$5,600",
+    "description": "Shoots depleted bloontonium missiles that can damage all Bloon types and trigger multiple explosions.",
+    "effect": "Hydra Rocket Pod missiles damage any bloon type and produce up to 3 low-pierce explosions by default. Gains even more explosions with pierce buffs."
+  },
+  {
+    "title": "Rocket Storm",
+    "cost": "$5,100",
+    "description": "Rocket Storm ability: Launches a powerful storm of rockets in a wide cone.",
+    "effect": "Ability generates waves of erratically moving rockets that deal 6 damage per shot onto up to 8 bloons per explosion. Main attack gains more pierce for both its own explosions and the numbers of explosions."
+  },
+  {
+    "title": "M.A.D",
+    "cost": "$60,000",
+    "description": "Moab Assured Destroyer. Slower firing mega missiles do extreme damage to MOAB-class Bloons.",
+    "effect": "Main attack deals 3 damage each plus 550 to MOAB-class and increases pierce to 12, but attacks over twice as slow and alternates attacks between two arms. Ability gains extra pierce and deals more damage to Ceramics and MOAB-class."
+  },
+  {
+    "title": "Faster Swivel",
+    "cost": "$150",
+    "description": "Barrel can swivel much faster.",
+    "effect": "Dartling Gunner can rotate towards the pointer twice as fast."
+  },
+  {
+    "title": "Powerful Darts",
+    "cost": "$700",
+    "description": "Darts move faster and can pop 3 bloons each.",
+    "effect": "Darts pop +2 bloons per shot. For Hydra Rocket Pods, gains +2 pierce and one more explosion, while Plasma Accelerator gains +25 pierce instead of +2 pierce."
+  },
+  {
+    "title": "Buckshot",
+    "cost": "$3,200",
+    "description": "Shoots blasts of deadly buckshot instead of darts.",
+    "effect": "Blasts out slow bursts of deadly buckshot instead of spinning rapid-fire darts. Buckshot balls deal 4 damage, pierces through 4 bloons, and can knock back bloons."
+  },
+  {
+    "title": "Bloon Area Denial System",
+    "cost": "$12,000",
+    "description": "4-barreled auto-cannon that can be set to attack automatically.",
+    "effect": "Upgrades into a tall 4-barreled auto-cannon that alternates attacks per cannon, allowing it to attack 4x faster than normal. Can be set to attack automatically."
+  },
+  {
+    "title": "Bloon Exclusion Zone",
+    "cost": "$53,000",
+    "description": "Upgraded to 6 barrels and massively increased damage. Bloons are excluded from existence",
+    "effect": "Further upgrades into 6 barrels for even faster attack speed and gains even more buckshots per cannon. Buckshots deal 8 damage instead of 4 and pierce through more bloons."
+  },
+  {
+    "title": "Guided Magic",
+    "cost": "$150",
+    "description": "Magic shots seek out the Bloons, even behind cover.",
+    "effect": "All magical bolts can ignore Line of Sight and can seek at bloons. Most other attacks also ignore Line of Sight and gain further projectile lifespan."
+  },
+  {
+    "title": "Arcane Blast",
+    "cost": "$350",
+    "description": "Bigger more powerful magic blasts pop through 2 layers of Bloon.",
+    "effect": "Main bolt now deals 2 damage."
+  },
+  {
+    "title": "Arcane Mastery",
+    "cost": "$1300",
+    "description": "Faster attacks with increased range, damage, and popping power.",
+    "effect": "Gains +20 range, 2x attack speed, deals 3 damage per bolt instead of 2, and pops +4 bloons."
+  },
+  {
+    "title": "Arcane Spike",
+    "cost": "$10000",
+    "description": "Faster firing magic does huge damage to most Bloon types.",
+    "effect": "Deals 8 damage per shot and 19 (presumably...) versus MOAB-class. Attacks 4x faster than an unupgraded Wizard and can pop Lead Bloons."
+  },
+  {
+    "title": "Archmage",
+    "cost": "$32000",
+    "description": "A true master of magical wizardry.",
+    "effect": "Even higher damage bolts deal 10 (?) damage and 26 (?) MOAB-class damage and attack twice as fast as Arcane Spike. Additionally gains Dragon's Breath and Shimmer attacks."
+  },
+  {
+    "title": "Fireball",
+    "cost": "$300",
+    "description": "Every few seconds casts an explosive fireball spell.",
+    "effect": "Every 2.6s, produces a fireball that explodes on impact and deals 3 damage. Fireballs have the Explosion damage type, and thus can pop Purples in all conditions."
+  },
+  {
+    "title": "Wall of Fire",
+    "cost": "$900",
+    "description": "Creates a super hot wall of fire across the track to roast the Bloons as they pass.",
+    "effect": "Creates a blaze of fire onto the closest region of bloon track. Bloons will be dealt damage as they pass by."
+  },
+  {
+    "title": "Dragon's Breath",
+    "cost": "$3000",
+    "description": "Spews endless flames at nearby Bloons and enhances Fireball and Wall of Fire.",
+    "effect": "Rapidly spews flames at bloons, deals extra damage to Ceramics, and sets affected bloons on fire for more damage. Fireball deals more damage and Wall of Fire is spawned faster."
+  },
+  {
+    "title": "Summon Phoenix",
+    "cost": "$4000",
+    "description": "Summon Phoenix ability: Powerful phoenix wreaks Bloon havoc for 20 seconds.",
+    "effect": "Ability generates a phoenix that rapidly spews flames that deal 5 damage each."
+  },
+  {
+    "title": "Wizard Lord Phoenix",
+    "cost": "$54000",
+    "description": "Wizard Lord becomes a master of the flame, turning into a super powerful Lava Phoenix for a short time.",
+    "effect": "Enhances damage of all fire-related attacks, Dragon's Breath attack gains huge pierce, and phoenix is permanent. Ability now transforms the monkey into a super-phoenix that spews even stronger flames and regular volleys of powerful meteors."
+  },
+  {
+    "title": "Intense Magic",
+    "cost": "$300",
+    "description": "More powerful magic shots move faster and can pop more Bloons.",
+    "effect": "Bolt gains +5 pierce and moves faster. Most fire-based attacks gain a certain amount of bonus pierce."
+  },
+  {
+    "title": "Monkey Sense",
+    "cost": "$300",
+    "description": "Allows the Wizard to hit Camo Bloons.",
+    "effect": "Self-explanatory"
+  },
+  {
+    "title": "Shimmer",
+    "cost": "$1700",
+    "description": "Gains a dark magic attack that periodically reveals location of all nearby Camo bloons permanently.",
+    "effect": "Gains a shimmer attack. Periodically produces dark waves of magic that permanently remove camo properties off bloons."
+  },
+  {
+    "title": "Necromancer: Unpopped Army",
+    "cost": "$2800",
+    "description": "Reanimate recently popped enemies as servants to destroy the Bloons.",
+    "effect": "Stores Undead Bloons into its personal graveyard every time any tower pops bloons within its range, and spawns them out to attack bloons. Undead Bloons pop any bloon type. Undead Bloons gain further pierce, damage, and attack speed as the graveyard count grows."
+  },
+  {
+    "title": "Prince of Darkness",
+    "cost": "$24000",
+    "description": "Reanimate even more powerful Bloon servants to obliterate the enemy and enhances all other Necromancers.",
+    "effect": "Expands its personal graveyard greatly, Undead Bloons last longer, and can now also summon Undead MOABs and Undead BFBs that deal even more damage and pop more bloons. Improves damage and lifespan of all Undead Bloons on screen including its own."
+  },
+  {
+    "title": "Laser Blasts",
+    "cost": "$2300",
+    "description": "Shoots powerful blasts of laser instead of darts.",
+    "effect": "Gains +1 pierce and pops Frozen Bloons. Cannot pop Purples or Leads."
+  },
+  {
+    "title": "Plasma Blasts",
+    "cost": "$4500",
+    "description": "Plasma vaporizes almost everything it touches!",
+    "effect": "Gains another +1 pierce, double attack speed, and pops Lead Bloons. Cannot pop Purples."
+  },
+  {
+    "title": "Sun Avatar",
+    "cost": "$17000",
+    "description": "Channels power from the core of the Sun.",
+    "effect": "Shoots three waves of sunbeams per shot. Each sunbeam pops up to 6 bloons."
+  },
+  {
+    "title": "Sun Temple",
+    "cost": "$100000",
+    "description": "Tower sacrifices enhance and modify the Temple's attacks.",
+    "effect": "Sacrifices all towers within range and absorbs their power into its own special attacks based on both tower categorization and sacrifice values."
+  },
+  {
+    "title": "True Sun God",
+    "cost": "$500000",
+    "description": "Tremble before the AWESOME power of the TRUE Sun God!!",
+    "effect": "Sacrifices all towers within range once again, again absorbing their power into its own special attacks based on both tower categorization and sacrifice values."
+  },
+  {
+    "title": "Super Range",
+    "cost": "$1000",
+    "description": "Super Monkeys need Super Range.",
+    "effect": "Gains +10 range and +1 pierce."
+  },
+  {
+    "title": "Epic Range",
+    "cost": "$1400",
+    "description": "Why settle for super when you can have EPIC?",
+    "effect": "Gains a further +12 range and another +1 pierce."
+  },
+  {
+    "title": "Robo Monkey",
+    "cost": "$8000",
+    "description": "Half Super Monkey, half killer robot of death. Shoots from 2 guns at once and can crit!",
+    "effect": "Gains +3 pierce and shoots from both arms at once. Arms have independent targeting and cannot both have the same target priorities. Does Crits every 15-20th shot that deals 10 damage."
+  },
+  {
+    "title": "Tech Terror",
+    "cost": "$19000",
+    "description": "Annihilation ability: Destroys most Bloons completely and utterly within blast radius.",
+    "effect": "Base attack becomes dual plasma cannons that each shoot green plasma, for +2 pierce and +25% attack speed (x0.8 attack cooldown) per plasma ball. Ability instantly deals 2500 damage to up to 2000 bloons within the blast range."
+  },
+  {
+    "title": "The Anti-Bloon",
+    "cost": "$90000",
+    "description": "<Program Directive> <Eradicate Bloons> <INITIATE>",
+    "effect": "Ability instantly deals 5000 damage to up to 10,000 bloons within the blast range. Main attack becomes much stronger, gaining +4 damage, +5 pierce, pops any bloon type, and the Super Monkey gains +10 range. Does Crits every 13-17th shot that deals 50 damage."
+  },
+  {
+    "title": "Knockback",
+    "cost": "$3000",
+    "description": "Bloons get pushed backwards or slowed after each hit.",
+    "effect": "Bloons affected are pushed backwards by 30% speed, Leads and Ceramics slowed by 60%, and MOAB-class slowed by 30%."
+  },
+  {
+    "title": "Ultravision",
+    "cost": "$1200",
+    "description": "Enables Super Monkey to shoot slightly further and to see Camo Bloons.",
+    "effect": "+3 range and gains camo detection."
+  },
+  {
+    "title": "Dark Knight",
+    "cost": "$5600",
+    "description": "Dark blades increase knockback and pierce and deal extra damage to MOAB-class Bloons. Gains Darkshift ability to shift to a nearby location.",
+    "effect": "Gains +2 MOAB-class damage, pushes back affected Leads and Ceramics by 100% speed, and gains +4 pierce. Can teleport onto any valid land location within range with a new ability."
+  },
+  {
+    "title": "Dark Champion",
+    "cost": "$60000",
+    "description": "Champion dark blades excel at puncturing and ruining all Bloon types. Darkshift ability extends mapwide.",
+    "effect": "Gains +1 damage to all bloons, another +1 damage to MOAB-class, doubles attack speed, gains another +2 pierce, and pops any bloon type. Ability now allows it to teleport to any valid land location on screen."
+  },
+  {
+    "title": "Legend of the Night",
+    "cost": "$240000",
+    "description": "We turn to him, when all hope is lost...",
+    "effect": "If bloons reach the exit, a black hole is summoned on all exits, deleting any bloons passing through them. Black holes last for up to 7.5s. Main attack gains even more damage and pierce."
+  },
+  {
+    "title": "Ninja Discipline",
+    "cost": "$300",
+    "description": "Increases attack range and attack speed.",
+    "effect": "All attacks gain +61.2% attack speed (0.62x attack cooldown) and range increases by +7."
+  },
+  {
+    "title": "Sharp Shurikens",
+    "cost": "$300",
+    "description": "Shurikens can pop 4 Bloons each.",
+    "effect": "Self-explanatory"
+  },
+  {
+    "title": "Double Shot",
+    "cost": "$650",
+    "description": "Throws 2 shurikens at once.",
+    "effect": "Throws 2 shurikens per shot in a narrow spread."
+  },
+  {
+    "title": "Bloonjitsu",
+    "cost": "$2750",
+    "description": "Throws 5 shurikens at once!",
+    "effect": "Now throws 5 shurikens per shot instead of 2."
+  },
+  {
+    "title": "Grandmaster Ninja",
+    "cost": "$35000",
+    "description": "Throws incredibly fast, 8 shurikens per shot!",
+    "effect": "Throws 8 shurikens at once, with 2 damage and +222% faster (0.31x attack cooldown). Also gains a slight range boost (check numbers)."
+  },
+  {
+    "title": "Distraction",
+    "cost": "$300",
+    "description": "Some Bloons will become distracted and move backwards.",
+    "effect": "Shurikens gain a 15% chance to blowback bloons."
+  },
+  {
+    "title": "Counter-Espionage",
+    "cost": "$375",
+    "description": "Ninja attacks can strip camo from Bloons they damage.",
+    "effect": "Self-explanatory"
+  },
+  {
+    "title": "Shinobi Tactics",
+    "cost": "$2000",
+    "description": "Increases attack speed and pierce of nearby Ninjas. Stacks 10 times.",
+    "effect": "Increases attack speed of itself and other Ninjas in range by +16% multiplicatively and pierce by +16% additively. Stacks up to 10 times."
+  },
+  {
+    "title": "Bloon Sabotage",
+    "cost": "$4500",
+    "description": "Sabotage ability: Lasts 15 seconds. During the sabotage, all Bloons move at reduced speed.",
+    "effect": "Ability slows down all bloons on screen and any incoming bloons by TBA% for 15 seconds. Cannot soak through MOAB-class layers nor affect BADs and bosses."
+  },
+  {
+    "title": "Grand Saboteur",
+    "cost": "$25000",
+    "description": "Ability duration is longer, and MOAB-Class Bloons spawn with less health during the sabotage.",
+    "effect": "Ability lasts twice as long and MOAB-class bloons spawning from the entrance, BADs included, start with 25% (check number) less health."
+  },
+  {
+    "title": "Seeking Shuriken",
+    "cost": "$250",
+    "description": "Shurikens will seek out and pop Bloons automatically.",
+    "effect": "Shurikens will aggressively seek out bloons, regardless of where they are."
+  },
+  {
+    "title": "Caltrops",
+    "cost": "$350",
+    "description": "Throws out spiked caltrops onto the track nearby.",
+    "effect": "Regularly throws out caltrops onto nearby track. Pops up to 6 bloons per caltrop."
+  },
+  {
+    "title": "Flash Bomb",
+    "cost": "$2000",
+    "description": "Throws a flash bomb that stuns multiple Bloons.",
+    "effect": "Every few shuriken throws, it throws a Flash Bomb that stuns bloons and pops any bloon type including Leads and Blacks (check ability to pop Black bloons)."
+  },
+  {
+    "title": "Sticky Bomb",
+    "cost": "$4500",
+    "description": "Throws powerful timed charges at MOAB-Class Bloons.",
+    "effect": "Throws sticky bombs onto MOAB-class bloons every few seconds. Sticky bombs detonate after 3.0s, dealing 500 damage to that blimp and 100 damage, 10 pierce, and 40 blast radius to bloons around it upon detonation (check numbers)."
+  },
+  {
+    "title": "Master Bomber",
+    "cost": "$40000",
+    "description": "One Monkey MOAB demolition machine.",
+    "effect": "Throws stronger sticky bombs over any distance that stun affected blimps and deal 1000 damage upon detonation instead of 500, damage of area explosion increases to 300 from 100. Flash bomb attack deals more damage and briefly stuns blimps too (check numbers)."
+  },
+  {
+    "title": "Larger Potions",
+    "cost": "$250",
+    "description": "Larger potions splash in a larger area.",
+    "effect": "Acid potion attack deals a large splash radius and pops up to 20 bloons per shot instead of 15."
+  },
+  {
+    "title": "Acidic Mixture Dip",
+    "cost": "$350",
+    "description": "Throws a helpful potion at nearby Monkeys that allows them to pop Lead Bloons and do extra damage to Ceramic and MOAB-Class Bloons. Wears off after several attacks.",
+    "effect": "Regularly throws helpful acidic mixture dip potions at monkeys, boosting their damage to Ceramics and MOAB-class by +1 and allows them to pop Leads. Lasts for 10 shots."
+  },
+  {
+    "title": "Berserker Brew",
+    "cost": "$1500",
+    "description": "Special brew gives Monkeys extra damage, range, and attack speed. Lasts longer.",
+    "effect": "Gives special brew to nearby Monkeys that temporarily provide extra damage, range, attack speed, and pierce. Wears off after many attacks or for the duration of the brew, whichever comes first. Always targets closest buffable tower."
+  },
+  {
+    "title": "Stronger Stimulant",
+    "cost": "$2500",
+    "description": "Extra strong berserker brew has even more powerful effect on the target. Lasts even longer.",
+    "effect": "Improves brew to provide further attack speed, pierce, and range, and last even longer."
+  },
+  {
+    "title": "Permanent Brew",
+    "cost": "$55000",
+    "description": "Berserker brew becomes PERMANENT on Monkeys who drink it.",
+    "effect": "Brew and acidic mixture dips now last indefinitely provided that the Permanent Brew is still on screen."
+  },
+  {
+    "title": "Stronger Acid",
+    "cost": "$250",
+    "description": "Acid potions dissolve Bloons faster.",
+    "effect": "Improves red acid into a stronger purple acid. Acid damage-over-time tick rate now increases from every 2.0s to every 1.5s, and increases lifespan of the acid from 4.0s to 4.5s."
+  },
+  {
+    "title": "Perishing Potions",
+    "cost": "$475",
+    "description": "Attack potions deal more damage to MOAB-class Bloons and strip Fortified off smaller Bloons. Also strengthens Brews and Stimulants.",
+    "effect": "Acid now can strip Fortified off non-blimp bloons, and attacks deals 5 damage to MOAB-class, 20 damage to Fortified MOAB-class. Also increases duration of Berserker Brew and Stronger Stimulant."
+  },
+  {
+    "title": "Unstable Concoction",
+    "cost": "$4000",
+    "description": "Coats MOAB-Class Bloons in an explosive substance that causes a large explosion when they are popped.",
+    "effect": "Coats MOAB-class bloons with an explosive substance. MOAB-class bloons affected by them will produce explosions with damage equivalent to 10% of its base health."
+  },
+  {
+    "title": "Transforming Tonic",
+    "cost": "$4500",
+    "description": "Transformation ability: Turns Alchemist into powerful attack Monster for 20 seconds.",
+    "effect": "Ability stops the Alchemist's main attacks and transforms it into a laser-shooting monster that pops lead, attacks very quickly, and deals 2 damage per laser."
+  },
+  {
+    "title": "Total Transformation",
+    "cost": "$45000",
+    "description": "Transforms five Monkeys nearby into crazy attack monsters for 20 seconds.",
+    "effect": "Ability now affects up to 5 nearby monkeys up to Tier 3 into laser-shooting monsters. Ability cooldown is decreased. Most transformed monkeys can inherit tower-exclusive buffs on top."
+  },
+  {
+    "title": "Faster Throwing",
+    "cost": "$650",
+    "description": "Throws potions and attacks faster.",
+    "effect": "Most attacks become +25% faster (0.80x attack cooldown)."
+  },
+  {
+    "title": "Acid Pool",
+    "cost": "$450",
+    "description": "If no Bloons are nearby Alchemist can drench nearby track with acid.",
+    "effect": "Produces pools of acid on nearby bloon track if there are no bloons within range. Can also produce acid pools if its main potion misses bloons."
+  },
+  {
+    "title": "Lead To Gold",
+    "cost": "$1000",
+    "description": "Converts Lead Bloons to GOLD! Special solvents do extra damage to Lead Bloons, destroying them in one shot and generating cash.",
+    "effect": "Deals extra damage to lead properties and rewards $50 every time a Lead Bloon is popped."
+  },
+  {
+    "title": "Rubber to Gold",
+    "cost": "$2750",
+    "description": "Converts all Bloons partially into gold, giving you cash for each pop from affected bloons.",
+    "effect": "Regularly produces a goldify potion that partially converts bloons into gold. Affected bloons give $1 per layer. (?)"
+  },
+  {
+    "title": "Bloon Master Alchemist",
+    "cost": "$40000",
+    "description": "Secret shrink potion converts all affected Bloons to Red Bloons.",
+    "effect": "Throws a shrink potion that converts up to 200 bloons into Red Bloons, including MOAB-class, although MOAB-class bloons consume more pierce. Does not reward extra money for converted bloons."
+  },
+  {
+    "title": "Hard Thorns",
+    "cost": "$250",
+    "description": "Hard thorns can pop 2 bloons each and pop Lead and Frozen bloons.",
+    "effect": "Druid thorns gain +1 pierce, and all thorns pop Frozen and Lead."
+  },
+  {
+    "title": "Heart of Thunder",
+    "cost": "$850",
+    "description": "Unleashes regular blasts of forked lightning that arc from bloon to bloon.",
+    "effect": "Creates regular blasts of forked lightning onto bloons as it attacks, affecting up to 30 bloons per lightning bolt."
+  },
+  {
+    "title": "Druid of the Storm",
+    "cost": "$1850",
+    "description": "Gusts of wind blow Bloons off the track away from the exit.",
+    "effect": "Creates small tornadoes that blow away up to 30 bloons backwards."
+  },
+  {
+    "title": "Ball Lightning",
+    "cost": "$5100",
+    "description": "Makes powerful balls of lightning that shoot additional lightning bolts.",
+    "effect": "Creates moving balls of lightning that shoot high-damage lightning bolts."
+  },
+  {
+    "title": "Superstorm",
+    "cost": "$65000",
+    "description": "Superstorm blasts all Bloon types for massive damage and blows them away from the exit.",
+    "effect": "Creates supertornadoes that blow away up to 200 bloons including MOAB-class, although MOAB-class consume more pierce. Additional Ball Lightnings are produced the longer the supertornadoes last. Most attacks gain even more damage."
+  },
+  {
+    "title": "Thorn Swarm",
+    "cost": "$250",
+    "description": "Shoots 8 thorns per shot instead of 5.",
+    "effect": "Self-explanatory"
+  },
+  {
+    "title": "Heart of Oak",
+    "cost": "$350",
+    "description": "Attacks convert Regrow Bloons into normal Bloons.",
+    "effect": "Attacks that affect Regrow Bloons strip their Regrow properties."
+  },
+  {
+    "title": "Druid of the Jungle",
+    "cost": "$950",
+    "description": "Calls a vine from the ground to entangle and crush Bloons one at a time.",
+    "effect": "Instakills the strongest non-blimp bloon on screen, strangling onto the same bloon until the bloon withers into nothing."
+  },
+  {
+    "title": "Jungle's Bounty",
+    "cost": "$2800",
+    "description": "Jungle's Bounty Ability: Generates cash each use, plus extra cash per Banana Farm near the Druid.",
+    "effect": "Gains even more range, and ability generates $1000 per use."
+  },
+  {
+    "title": "Spirit of the Forest",
+    "cost": "$35000",
+    "description": "Grows thorned vines along the path that deal constant damage and generates lives and money when the ability is activated.",
+    "effect": "Continually grows thorned vines starting from its direct location and grows more vines outwards roughly every 1.0s. Thorned vines will deal 2 damage every 0.5s to every bloon contacting its growing thorned vines. (check numbers. bonus damage to ceramics?) Adds $3000 every turn, while activated ability is decreased from $1000 to $750, while also adding 25 lives."
+  },
+  {
+    "title": "Druidic Reach",
+    "cost": "$100",
+    "description": "Increases range by a large amount.",
+    "effect": "Gains +10 range."
+  },
+  {
+    "title": "Heart of Vengeance",
+    "cost": "$300",
+    "description": "Gains 20% attack speed and 1% for every life lost from the starting value after the upgrade. Maxes at 100% and diminishes if lives are restored.",
+    "effect": "Self-explanatory"
+  },
+  {
+    "title": "Druid of Wrath",
+    "cost": "$600",
+    "description": "Gains attack speed during the round as long as the Druid is attacking Bloons.",
+    "effect": "Gains +0.5% attack speed every time it does 1 point of damage to bloons, up to +100%. Wrath attack speed bonus resets if not attacking within 2 seconds."
+  },
+  {
+    "title": "Poplust",
+    "cost": "$2500",
+    "description": "Boosts attack speed and pierce for all Druids in the radius. Can stack up to 5 times on a single Druid.",
+    "effect": "Nearby Druids gain increased pierce and attack speed by +15%, stackable additively up to 5 times for +75% pierce and attack speed."
+  },
+  {
+    "title": "Avatar of Wrath",
+    "cost": "$45000",
+    "description": "The more bloons there are, the more damage it does!",
+    "effect": "Deals 4 damage per thorn by default, plus another +1 damage every 3000 RBE on screen, capped at +24. Also gives a smaller damage-ramping for lightning if given the Heart of Thunder upgrade."
+  },
+  {
+    "title": "Increased Production",
+    "cost": "$600",
+    "description": "Grows 2 extra Banana bunches per round.",
+    "effect": "Grown bananas from 3 to 5."
+  },
+  {
+    "title": "Greater Production",
+    "cost": "$550",
+    "description": "Grows 2 MORE extra Banana bunches per round.",
+    "effect": "Grown bananas from 5 to 7."
+  },
+  {
+    "title": "Banana Plantation",
+    "cost": "$2,700",
+    "description": "Grows 16 Banana bunches per round.",
+    "effect": "Grown bananas from 7 to 16."
+  },
+  {
+    "title": "Banana Research Facility",
+    "cost": "$16,000",
+    "description": "Produces 5 large Banana crates every round worth $600 each.",
+    "effect": "Instead of bananas, produces 5 crates, each is worth $600."
+  },
+  {
+    "title": "Banana Central",
+    "cost": "$60,000",
+    "description": "You want Banana? We have Banana!",
+    "effect": "Crates are worth 5x more, for $3000 per crate. Makes Banana Research Facility crates be worth +25% (rounded down)."
+  },
+  {
+    "title": "Long Life Bananas",
+    "cost": "$200",
+    "description": "Bananas last 30 seconds before rotting instead of 15.",
+    "effect": "Lifespan for bananas and crates increases from 15s to 30s."
+  },
+  {
+    "title": "Valuable Bananas",
+    "cost": "$700",
+    "description": "Bananas are worth 25% more cash per bunch.",
+    "effect": "Income is worth 25% more cash, rounded down."
+  },
+  {
+    "title": "Monkey Bank",
+    "cost": "$5,500",
+    "description": "All money generated by this farm is now stored in the bank and earns 15% interest every round.",
+    "effect": "Changes banana generation to automatically generate money and store in a bank $400 per round. Increases stored cash by 20% at the end of a round, limited to $14,000 stored cash. Stored cash can be collected at any time."
+  },
+  {
+    "title": "IMF Loan",
+    "cost": "$7,500",
+    "description": "IMF Loan ability: Gives you $20,000 but you have to pay it back over time.",
+    "effect": "Increases bank storage limit from $14,000 to $20,000. Gains an ability that gives $20,000, but 50% of all income will be used to pay the debt."
+  },
+  {
+    "title": "Monkey-Nomics",
+    "cost": "$50,000",
+    "description": "For when you're too big to fail...",
+    "effect": "Ability cooldown from 90s to 60s and ability no longer includes a debt."
+  },
+  {
+    "title": "EZ Collect",
+    "cost": "$250",
+    "description": "The collect radius of Bananas is larger. For Monkey Banks, glows when full and ready to collect.",
+    "effect": "Increases area where bananas and crates can be collected by +50%. Also makes banks signs glow when they are full."
+  },
+  {
+    "title": "Banana Salvage",
+    "cost": "$200",
+    "description": "Uncollected Bananas auto-collect for almost their full amount, and Banks autocollect when full.",
+    "effect": "Expired bananas and crates are auto-collected for 50% of their value.\nIncreases sell value of this farm by 10%\n"
+  },
+  {
+    "title": "Marketplace",
+    "cost": "$2,900",
+    "description": "Generates money each round and adds it to your total. No fuss.",
+    "effect": "Instead of collectable bananas, automatically generates money. Generates $40 automatically 14 times, for a total of $560 per round."
+  },
+  {
+    "title": "Central Market",
+    "cost": "$12,500",
+    "description": "Earns heaps of money each round and gives Merchantmen +10% income.",
+    "effect": "Increases generated money from $40 to $160, for a total of $2240 per round. Gives Merchantman +10% income per Central Market, stacks up to 10x, for +100% income."
+  },
+  {
+    "title": "Monkey Wall Street",
+    "cost": "$37,500",
+    "description": "Hub of Monkey trades earns colossal income each round.",
+    "effect": "Generates the same amount of money as a Central Market, but adds $10,000 at the end of each round."
+  },
+  {
+    "title": "Bigger Stacks",
+    "cost": "$700",
+    "description": "Creates larger piles of spikes per shot.",
+    "effect": "Spike piles gain +5 pierce. For Perma-Spike, gains +40 pierce (check numbers)."
+  },
+  {
+    "title": "White Hot Spikes",
+    "cost": "$600",
+    "description": "Cuts through Lead Bloons and Frozen Bloons.",
+    "effect": "Can pop Frozen and Lead Bloons."
+  },
+  {
+    "title": "Spiked Balls",
+    "cost": "$2,300",
+    "description": "Produces spiked balls that do extra damage to Ceramic and Fortified bloons.",
+    "effect": "Pierce of each spike pile increases from 10 to 14, and increases damage from 1 to 2, plus even more to Ceramic and Fortified (+1 to Fortified, +3 to Ceramic) (check numbers)."
+  },
+  {
+    "title": "Spiked Mines",
+    "cost": "$9,500",
+    "description": "Spiked mines explode violently when they lose all their spikes.",
+    "effect": "Increases Ceramic damage bonus from +3 to +6. Mines produce explosions that deal 10 damage with 40 pierce upon depletion of its spikes or by expiration, plus a burning effect that deals 1 damage per 2 seconds for up to 6 seconds. If expired by time, explosions deal double damage (20 damage) (check numbers)."
+  },
+  {
+    "title": "Super Mines",
+    "cost": "$130,000",
+    "description": "Creates gigantic exploding spiked mines that can wipe out almost anything.",
+    "effect": "Reduces production speed to every 3.5s. Increases spike damage from 2 to 10. Create explosions every time a spike wears out (10 damage, 30 pierce) and produces 1000 (2000 if the mine expires) damage, 60 pierce explosions once the super mine fully depletes its spikes or expires (check numbers)."
+  },
+  {
+    "title": "Faster Production",
+    "cost": "$600",
+    "description": "Rapidly increases production rate.",
+    "effect": "Produces spikes +25% faster (0.80x attack cooldown)."
+  },
+  {
+    "title": "Even Faster Production",
+    "cost": "$700",
+    "description": "Increases production rate even more.",
+    "effect": "Produces spikes +42% faster (0.70x attack cooldown)."
+  },
+  {
+    "title": "MOAB SHREDR",
+    "cost": "$2,500",
+    "description": "Super-Hard-Rending-Engine-Driven-Razors shred MOAB-Class Bloons.",
+    "effect": "Spikes deal +4 damage to MOAB-class bloons (check numbers)."
+  },
+  {
+    "title": "Spike Storm",
+    "cost": "$5,000",
+    "description": "Spike Storm ability: Shoots out a thick layer of spikes over the entire track.",
+    "effect": "Ability produces a wave of exactly 200 spike piles over the entire track. Storm spikes last for up to 10 seconds, 15 with Long Reach. Ability behavior modifies with the Smart Spikes upgrade (check numbers)."
+  },
+  {
+    "title": "Carpet of Spikes",
+    "cost": "$40,000",
+    "description": "Regularly sets a carpet of spikes over the whole track.",
+    "effect": "Every 15 seconds, produces an automatic Spike Storm. Spikes also deal 2 more damage to all bloons, and storm spikes last for 20 seconds instead of 10, or 30 with Long Reach (check numbers)."
+  },
+  {
+    "title": "Long Reach",
+    "cost": "$150",
+    "description": "Increases range for spike pile drops, plus piles last longer.",
+    "effect": "Increases range of the Spike Factory, and ordinary spike piles last for 100 seconds instead of 50 seconds. Spike Storm ability spikes last for 50% longer, for 15 seconds instead of 10, or 30 seconds for Carpet of Spikes ability spikes. (Check numbers)"
+  },
+  {
+    "title": "Smart Spikes",
+    "cost": "$400",
+    "description": "Spike Factory gains special targeting priority and accelerated production at the start of each round.",
+    "effect": "Gains the Close, Far, and Smart target priorities. In addition, attacks 4x faster for the first 2.5s of a round. Spike Storm ability spikes land only on lanes that are being used by Bloons in that particular round (Check numbers)."
+  },
+  {
+    "title": "Long Life Spikes",
+    "cost": "$1,400",
+    "description": "Spikes last much longer and can carry over one round.",
+    "effect": "Spikes last for 140 seconds instead of 100 seconds. (Check numbers)"
+  },
+  {
+    "title": "Deadly Spikes",
+    "cost": "$3,500",
+    "description": "Extra deadly spikes can pop through 2 layers per spike and last another round.",
+    "effect": "Spike damage increased from 1 to 2. (check numbers; does duration increase? Possibly to 200 seconds, a valid guess?)"
+  },
+  {
+    "title": "Perma-Spike",
+    "cost": "$30,000",
+    "description": "High damage spikes become almost permanent.",
+    "effect": "Reduces production speed to every 4.85s. Spike piles have 10 damage per spike, 50 pierce per spike pile, and lasts for 300 seconds instead of 140. (check numbers)"
+  },
+  {
+    "title": "Bigger Radius",
+    "cost": "$400",
+    "description": "Increases influence radius of the village.",
+    "effect": "Influence radius of the Monkey Village increases by +8, for a total of +20% when given to a base Village."
+  },
+  {
+    "title": "Jungle Drums",
+    "cost": "$1,500",
+    "description": "Increases attack speed of all Monkeys in the radius.",
+    "effect": "All towers in the radius of the Village attack +18% faster (0.85x attack cooldown)."
+  },
+  {
+    "title": "Primary Training",
+    "cost": "$800",
+    "description": "All Primary Monkeys in radius get more range, pierce and projectile speed.",
+    "effect": "All Primary Monkeys in the radius of the Village gain +10% further range, +1 pierce, and around +25% projectile speed."
+  },
+  {
+    "title": "Primary Mentoring",
+    "cost": "$2,500",
+    "description": "All Primary Monkeys in radius get tier 1 upgrades for free, increased range and reduced ability cooldowns.",
+    "effect": "In addition to Primary Training buffs, all Primary Monkeys in the radius of the Village gain a further +5 additive range, reduces ability cooldowns by 10%, and free Tier 1 upgrades."
+  },
+  {
+    "title": "Primary Expertise",
+    "cost": "$25,000",
+    "description": "Adds Mega Ballista attack, plus all Primary Monkeys in radius get more popping power and tier 1 and 2 upgrades for free.",
+    "effect": "In addition to Primary Mentoring buffs, all Primary Monkeys in the radius of the Village gain +3 pierce instead of +1 pierce, free Tier 1 and 2 upgrades, and -20% ability cooldowns. Main Village gains a further +8 influence range and now regularly shoots homing Mega Ballista blades that deal 10 damage or 200 versus Ceramics and MOAB-class."
+  },
+  {
+    "title": "Grow Blocker",
+    "cost": "$250",
+    "description": "Prevents Regrow Bloons from working while in the radius of the Village.",
+    "effect": "Self-explanatory"
+  },
+  {
+    "title": "Radar Scanner",
+    "cost": "$2,000",
+    "description": "Allows all Monkeys in the radius to attack Camo Bloons.",
+    "effect": "Grants all towers in range with camo detection."
+  },
+  {
+    "title": "Monkey Intelligence Bureau",
+    "cost": "$7,500",
+    "description": "The Bureau grants special Bloon popping knowledge, allowing nearby Monkeys to pop all Bloon types.",
+    "effect": "In addition to camo detection, all towers in the radius of the Village can pop any bloon property: Black, White, Purple, Frozen, and Lead."
+  },
+  {
+    "title": "Call To Arms",
+    "cost": "$20,000",
+    "description": "Call to Arms ability: Gives nearby Monkeys +50% attack speed and pops for a short time.",
+    "effect": "Adds an ability that causes all towers in the radius of the Village to temporarily gain +50% attack speed and +50% pierce for up to 12 seconds."
+  },
+  {
+    "title": "Homeland Defense",
+    "cost": "$40,000",
+    "description": "Ability now increases attack speed and pops by 100% for all Monkeys for 20 seconds.",
+    "effect": "Ability now affects the whole screen and increases attack speed by +100% and pierce by +100% for 20 seconds."
+  },
+  {
+    "title": "Monkey Business",
+    "cost": "$500",
+    "description": "Provides 10% discount on all Monkeys and upgrades tier 3 or less purchased in the radius of the Village.",
+    "effect": "Discounts all towers and upgrades below Tier 4 by 10%, provided they are within range of the Village. Does not affect hero leveling costs."
+  },
+  {
+    "title": "Monkey Commerce",
+    "cost": "$500",
+    "description": "An additional 5% discount that can stack with up to 2 other Villages with this upgrade.",
+    "effect": "Adds another 5% discount for all towers and upgrades below Tier 4, for a total of 15% discount, provided they are within range of the Village. Does not affect hero leveling costs. Can stack up to 3 times for a total of 25% discount."
+  },
+  {
+    "title": "Monkey Town",
+    "cost": "$5,000",
+    "description": "All bloon sends give 10% more eco.",
+    "effect": "In addition to +10% eco per eco-positive bloon send, the +10% eco is reversed to a 10% reduced eco penalty for stronger blimp sends, lowering the punishment for sending blimps above MOABs. Does not stack with other Monkey Towns."
+  },
+  {
+    "title": "Monkey City",
+    "cost": "$7,000",
+    "description": "Increases influence range, bloon sends are worth another 10% more eco, and collects bananas dropped in range.",
+    "effect": "In addition to +20% eco per eco-positive bloon send, as well as extra influence range and autocollection of bananas, the total of +20% eco is reversed to a 20% reduced eco penalty for stronger blimp sends, lowering the punishment for sending blimps above MOABs. Does not stack with other Monkey Cities or Monkey Towns."
+  },
+  {
+    "title": "Monkeyopolis",
+    "cost": "$5,000 / Banana Farm",
+    "description": "Absorbs all nearby Banana Farms and their income, freeing up space for new Monkeys.",
+    "effect": "All Banana Farms within range up to Tier 4 are sacrificed to generate more income based on the monetary cost of the Banana Farm sacrifices. Cost of the upgrade increases per Banana Farm within range."
+  },
+  {
+    "title": "Sentry Gun",
+    "cost": "$500",
+    "description": "Creates temporary sentry guns and deploys them nearby.",
+    "effect": "Produces temporary sentry guns onto nearby land. Sentry Guns pop up to 2 bloons per shot, lasts for up to 25 (check this number) seconds before disappearing, and can be improved with crosspathing."
+  },
+  {
+    "title": "Faster Engineering",
+    "cost": "$400",
+    "description": "Increased efficiency allows the Engineer to produce sentries more often and foam faster.",
+    "effect": "Produces sentries and foam +66% faster (0.60x attack cooldown), and cooldown for stored traps reduced by 40%."
+  },
+  {
+    "title": "Sprockets",
+    "cost": "$525",
+    "description": "Increases sentry gun and Engineer attack speed.",
+    "effect": "Nailgun and newly deployed sentry guns attack +66% faster (0.60x attack cooldown)."
+  },
+  {
+    "title": "Sentry Expert",
+    "cost": "$2500",
+    "description": "Sentries deploy with different damage types based on your need.",
+    "effect": "Replaces all new sentries with four specialized sentries: Crushing, Boom, Cold, and Energy. Adjusts deployment of these four sentry types depending on bloons on the screen."
+  },
+  {
+    "title": "Sentry Champion",
+    "cost": "$32000",
+    "description": "Creates super-powerful but highly unstable sentries.",
+    "effect": "Replaces all new sentries with powerful plasma sentries. Expired sentries now explode a wave of plasma instead of simply disappearing."
+  },
+  {
+    "title": "Larger Service Area",
+    "cost": "$250",
+    "description": "Shoots further and deploys sentries in a much larger area.",
+    "effect": "Engineer gains +20 range, and sentries gain slightly more range."
+  },
+  {
+    "title": "Deconstruction",
+    "cost": "$350",
+    "description": "Nail gun and Sentry shots do extra damage to MOAB-class and Fortified Bloons.",
+    "effect": "Nailgun and newly deployed sentries deal +1 damage to MOAB-class and +1 damage to Fortified."
+  },
+  {
+    "title": "Cleansing Foam",
+    "cost": "$800",
+    "description": "Sprays foam that removes Camo and Regrow and pops Lead Bloons.",
+    "effect": "Sprays foam anywhere on nearby bloon track. Bloons that hit the foam will permanently lose Camo and Regrow properties. Lead Bloons are neutralized and DDT Lead properties are removed."
+  },
+  {
+    "title": "Overclock",
+    "cost": "$13500",
+    "description": "Overclock Ability: Target another tower to supercharge its attack speed for a short time.",
+    "effect": "Ability temporarily increases attack speed of tower, range of a Monkey Village, or production of a Banana Farm. Ability duration depends on tier of the selected tower. Main attack gains more pierce."
+  },
+  {
+    "title": "Ultraboost",
+    "cost": "$120000",
+    "description": "Ultra-Overclocked Monkeys gain a small but permanent boost every time they are overclocked.",
+    "effect": "Ability now permanently applies a 10th of the bonus of Overclock onto the selected tower (check this)."
+  },
+  {
+    "title": "Oversize Nails",
+    "cost": "$450",
+    "description": "Massivization allows nails to pop 8 Bloons at once, including frozen. Also increases Foam and Sentry effectiveness.",
+    "effect": "Nailgun pierce increases from 3 to 8. Pierce of sentries and foam improves."
+  },
+  {
+    "title": "Pin",
+    "cost": "$220",
+    "description": "Pins Bloons in place for a short time when struck.",
+    "effect": "Nailgun nails pin any non-blimp bloon other than Leads and Ceramics. Can give Pin effect to sentries with Sprockets or above."
+  },
+  {
+    "title": "Double Gun",
+    "cost": "$500",
+    "description": "Two guns for twice the fun.",
+    "effect": "Double nailgun attack speed."
+  },
+  {
+    "title": "Bloon Trap",
+    "cost": "$3500",
+    "description": "Bloon trap captures Bloons until full. Select to empty full trap for cash.",
+    "effect": "Produces a Bloon Trap that captures up to 650(?) RBE worth of non-blimp bloons. Collecting the full trap earns $500 cash."
+  },
+  {
+    "title": "XXXL Trap",
+    "cost": "$54000",
+    "description": "Huge Bloon traps can trap some of the largest Bloons in them...",
+    "effect": "Produces a huge XXXL Bloon Trap that captures up to 10,000(?) RBE worth of almost any bloon including all non-BAD blimps. Collecting the full trap earns a bonus $5000 cash."
+  }
+ ]
