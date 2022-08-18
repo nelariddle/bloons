@@ -7,7 +7,7 @@ While the assignment only required the bot to respond to two different "patterns
 
 Finally, I wrote the actual bot that responded to the commands. It recognized any comment which started with the tower name followed by the upgrade path, represented as xxx with one of the x's replaced by the upgrade tier (https://bloons.fandom.com/wiki/Crosspathing). I used a list of lists that contained all the different ways by which a tower could be referred in order to make the bot more flexible (such as sub vs. submarine). In the end, the bot successfully worked in responding to all the upgrade paths. Although I no longer play the game, I think the bot could be very beneficial for players who need to see upgrades and their descriptions quickly.
 
-![The bot supplies an upgrade description.](bot-ss.jpg "Bot functionality")
+![The bot supplies an upgrade description.](bot-ss.png "Bot functionality")
 
 ## Contents
 - bloonsBot.js: the Discord bot's source code
